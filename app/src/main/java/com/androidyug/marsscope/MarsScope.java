@@ -6,7 +6,7 @@ import com.squareup.otto.Bus;
 import com.squareup.otto.ThreadEnforcer;
 
 /**
- * Created by IAMONE on 12/22/2015.
+ * @author nitinnatural@gmail.com Niitn Anand
  */
 public class MarsScope extends Application{
 
